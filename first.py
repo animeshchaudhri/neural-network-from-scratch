@@ -41,3 +41,49 @@ print(layer2.output)
 
 # what is loss in neural network ?
 # loss is the error in the output of the neural network. It is the difference between the predicted output and the actual output.
+
+#how to reduce dimensions
+#pca, t-sne, autoencoders
+#what is pca
+# principal component analysis
+#what is t-sne
+# t-distributed stochastic neighbour embedding
+#what is autoencoders
+# autoencoders are a type of neural network that learns to compress data and then reconstruct it back to its original form.
+#in pca what is the objective
+# maximise variance
+#what is variance
+# variance is the measure of the spread of the data points
+
+#in t-sne what is the objective
+# minimise distance between similar points and maximise distance between dissimilar points
+#in autoencoders what is the objective
+# reduce dimensions and then increase dimensions
+
+#what does pca does to ooirginal features
+# it reduces the dimensions of the original features
+#what does t-sne does to original features
+# it reduces the dimensions of the original features
+#what does autoencoders does to original features
+
+#what is the main advatnage of using dimensionality reduction techniques
+# it reduces the dimensions of the data and makes it easier to visualize and interpret the data.
+#List of dimensionality reduction technique are singular value decomposition
+# Ica
+# Pca
+# projection
+# mainfold
+
+# which dimensionality reduction technique is used for visualizing the data in a lower dimensional space
+# t-sne is used for visualizing the data in a lower dimensional space
+# what is the main advantage of using t-sne
+# it is used to visualize the data in a lower dimensional space
+# what is the main disadvantage of using t-sne
+# it is computationally expensive
+# what is the main advantage of using pca
+# it is used to reduce the dimensions of the data
+# what is the main disadvantage of using pca
+# in pca what is variance ration
+# variance ration is the ratio of the variance of the principal components to the total variance of the data
+# in pca what is explained variance
+
